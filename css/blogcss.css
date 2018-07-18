@@ -2,6 +2,10 @@
     margin: 0;
     padding: 0
 }
+body
+{
+    height:100%;
+}
 em,i {
     font-style: normal
 }
@@ -69,7 +73,6 @@ nav ul li{
     color:#EEE;
 }
  .inner{
-    background-color：#333;
     margin:0 auto;
     max-width:300px;
     position:relative;
