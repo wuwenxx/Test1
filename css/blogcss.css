@@ -25,7 +25,7 @@ a:hover {
     color: #EEE;
 }
 .wrap{
-    background:#EEE url(image/banner.jpg);
+    background:url(image/banner.jpg) #EEE ;
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-position: center center;
