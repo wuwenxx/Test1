@@ -25,7 +25,7 @@ a:hover {
     color: #EEE;
 }
 .wrap{
-    background:url(image/banner.jpg) #EEE ;
+    background:url(../image/banner.jpg) #eee;
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-position: center center;
@@ -69,7 +69,7 @@ nav ul li{
     color:#EEE;
 }
  .inner{
-    background-color:#333;
+    background-color：#333;
     margin:0 auto;
     max-width:300px;
     position:relative;
